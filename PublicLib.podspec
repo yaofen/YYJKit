@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/yaofen/YYJKit.git"
   spec.license      = "MIT"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
-  spec.author             = { "james.yao" => "james.yao@klook.com" }
+  spec.author             = { "james.yao" => "2363253102@qq.com" }
   spec.platform     = :ios, "10.0"
   spec.source       = { :git => "https://github.com/yaofen/YYJKit.git", :tag => "#{spec.version}" }
   spec.source_files  = "Classes", "Classes/**/*.{h,m}"
